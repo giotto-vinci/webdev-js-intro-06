@@ -39,8 +39,9 @@ function createNumberArray() {
     console.log(numberArray[i]);
     i++;
   }
+  }
 }
-}
+
 
 function render() {
   // Call the created functions
